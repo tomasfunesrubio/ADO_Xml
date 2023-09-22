@@ -1,0 +1,10 @@
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\bin\Debug\ADO_Desconectado.exe.config
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\bin\Debug\ADO_Desconectado.exe
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\bin\Debug\ADO_Desconectado.pdb
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\obj\Debug\ADO_Desconectado.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\obj\Debug\ADO_Desconectado.Form1.resources
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\obj\Debug\ADO_Desconectado.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\obj\Debug\ADO_Desconectado.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\obj\Debug\ADO_Desconectado.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\obj\Debug\ADO_Desconectado.exe
+C:\Users\Dario Cardacci\source\repos\ADO\ADO_Desconectado\obj\Debug\ADO_Desconectado.pdb

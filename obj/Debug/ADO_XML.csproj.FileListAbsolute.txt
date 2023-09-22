@@ -1,0 +1,11 @@
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\bin\Debug\ADO_Desconectado.exe.config
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\bin\Debug\ADO_Desconectado.exe
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\bin\Debug\ADO_Desconectado.pdb
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\obj\Debug\ADO_XML.csproj.AssemblyReference.cache
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\obj\Debug\ADO_XML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\obj\Debug\ADO_Desconectado.Form1.resources
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\obj\Debug\ADO_XML.Properties.Resources.resources
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\obj\Debug\ADO_XML.csproj.GenerateResource.cache
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\obj\Debug\ADO_XML.csproj.CoreCompileInputs.cache
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\obj\Debug\ADO_Desconectado.exe
+C:\Users\Dario Cardacci\source\repos\2023\2C\ISI_DASW_2A_TM\ADONET\ADO\ADO_XML\obj\Debug\ADO_Desconectado.pdb

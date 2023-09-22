@@ -1,0 +1,39 @@
+<?xml version="1.0" standalone="yes"?>
+<Gestion>
+  <xs:schema id="Gestion" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="Gestion" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Persona">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="DNI" type="xs:string" />
+                <xs:element name="Nombre" type="xs:string" minOccurs="0" />
+                <xs:element name="Apellido" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Persona" />
+        <xs:field xpath="DNI" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Persona>
+    <DNI>20.123.456</DNI>
+    <Nombre>Ana</Nombre>
+    <Apellido>Perez</Apellido>
+  </Persona>
+  <Persona>
+    <DNI>12.234.567</DNI>
+    <Nombre>Juan</Nombre>
+    <Apellido>Garcias</Apellido>
+  </Persona>
+  <Persona>
+    <DNI>12.345.678</DNI>
+    <Nombre>Pedro</Nombre>
+    <Apellido>Garcia</Apellido>
+  </Persona>
+</Gestion>
